@@ -1,7 +1,5 @@
-class Comments {
-    // Linha única
+// Linha única
 
-    /*
-    Linha composta
-     */
-}
+/*
+Linha composta
+*/
